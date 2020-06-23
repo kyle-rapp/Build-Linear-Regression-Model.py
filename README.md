@@ -1,4 +1,6 @@
 # Linear-Regression-Model.py
-This model uses the only the first feature of the diabetes dataset, in order to illustrate a two-dimensional plot of this regression technique.
+A linear regression model in Python which is trained on 80% of a dataset and attempts to predict the other 20% of the dataset using the scikit-learn package.
 
-This model utilizes the scikit-learn package.
+Results of coefficents and fit are printed. seaborn is utilized to create scatter plots.
+
+The datasets used are Diabetes data, and Boston Housing data. 
